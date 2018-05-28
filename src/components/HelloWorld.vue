@@ -9,7 +9,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'lc,Welcome to Your Vue.js App1'
+      msg: 'lc,Welcome to Your Vue.js App2'
     }
   }
 }
